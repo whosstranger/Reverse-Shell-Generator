@@ -1,39 +1,29 @@
-# Automatic Scanner
+# Reverse Shell Generator
 <h1 align="center">
   <img src="https://github.com/whosstranger/AutomaticScanner/blob/master/Images/video.gif" />
 </h1>
    
 ## About it
 
-Tool created in bash to perform all the reconnaissance phase on CTF machines, contains the nmap and ffuf tools.
-
-- Nmap is used for open port and port-associated services reconnaissance.
-
-- ffuf is used to discover hidden routes in web sites.
+Tool created in bash that allows you to create reverse shell via console
 
 ## Execution
 
 Clone the repository
 
 ```sh
-git clone https://github.com/whosstranger/AutomaticScanner.git
-```
-
-Becomes root
-
-```sh
-sudo su
+git clone https://github.com/whosstranger/Reverse-Shell-Generator
 ```
 
 Assign execution permissions.
 
 ```sh
-chmod +x scanner.sh
+chmod +x reverse-shell.sh
 ```
 
 Script execution.
 
 ```sh
-./scanner.sh
+./reverse-shell.sh
 ```
 
