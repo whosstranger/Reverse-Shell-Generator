@@ -1,6 +1,6 @@
 # Reverse Shell Generator
 <h1 align="center">
-  <img src="https://github.com/whosstranger/AutomaticScanner/blob/master/Images/video.gif" />
+  <img src="https://github.com/whosstranger/Reverse-Shell-Generator/blob/master/Images/reverse.gif" />
 </h1>
    
 ## About it
